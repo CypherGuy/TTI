@@ -1,6 +1,6 @@
-# TTI
+# ITT
 
-A simple program that takes in an image from another file, converts it into text and then optionally summarizes the text to you in bullet point form.
+A simple program that takes in an image, converts it into text and then optionally summarizes the text to you in bullet point form.
 
 When forking a copy, please create two files: "image.png" to store the image, and "text.txt" for the text to be stored in your directory at the same level as "ImagetoText.py". 
 
